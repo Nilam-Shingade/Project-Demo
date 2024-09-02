@@ -1,2 +1,3 @@
 # Project-Demo
-This is my first Giot Repository
+This is my first Git Repository
+Author-Nilam Shingade
